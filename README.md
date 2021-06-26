@@ -1,5 +1,17 @@
 ### Hi there 👋
 I am Eko Rudiawan Jamzuri
+
+## Interests
+
+- Deep Reinforcement Learning
+- Self-supervised Learning
+- MDP Theory
+- Robotic learning
+
+## Stats
+
+![Eko Rudiawan GitHub stats](https://github-readme-stats.vercel.app/api?username=ekorudiawan&hide=contribs,prs)
+
 <!--
 **ekorudiawan/ekorudiawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
