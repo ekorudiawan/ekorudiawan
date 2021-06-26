@@ -3,10 +3,8 @@ I am Eko Rudiawan Jamzuri
 
 ## Interests
 
-- Deep Reinforcement Learning
-- Self-supervised Learning
-- MDP Theory
-- Robotic learning
+- Humanoid Robot
+- Deep Learning for Computer Vision
 
 ## Stats
 
