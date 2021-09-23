@@ -10,7 +10,7 @@ I am Eko Rudiawan Jamzuri
 
 ![Eko Rudiawan GitHub stats](https://github-readme-stats.vercel.app/api?username=ekorudiawan&hide=contribs,prs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekorudiawan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekorudiawan&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **ekorudiawan/ekorudiawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
